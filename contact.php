@@ -91,7 +91,7 @@ session_start();
         <h2 style="font-weight: bold;">Contact</h2>
         <p>Sabana Suresh</p>
         <p>Email: <a href="mailto:sabana.suresh@dauphine.eu">sabana.suresh@dauphine.eu</a></p>
-        <p>Téléphone: +33 7 69 08 98 17</p>
+        <p>Téléphone: +33 7 ** ** ** **</p>
         <img src="photo.png" alt="Votre Photo" width="150" style="margin-top: 20px;">
     </div>
 </div>
